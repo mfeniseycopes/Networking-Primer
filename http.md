@@ -4,6 +4,8 @@ Just as a review, here are the details of the HTTP request lifecyle. This doesn'
 
 ## What happens when you type a url in a browser?
 
+![](/images/http-sequence.png)
+
 ### URL breakdown
 
 The URL is not merely where we want, but also what we want.
@@ -22,7 +24,7 @@ The domain name is linked to a specific IP, which is where the server is located
 3. When the IP is returned, the browser opens a TCP connection with the server
  * A TCP (Transmission Control Protocol) connection ensures that all data is successfully transmitted and received
 4. The browser then makes a HTTP request to the server
-5. The server receives the request, sends response via TCP connection
+5. The server receives the request, builds, sends response via TCP connection
   * response may contain, javascript, HTML, CSS, static images
 6. The browser receives the response, depending on response code will redirect, display an error or render the page
 7. If possible, the browser will cache the response to use again later
