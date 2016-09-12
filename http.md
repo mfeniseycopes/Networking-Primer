@@ -8,14 +8,14 @@ Just as a review, here are the details of the HTTP request lifecyle. This doesn'
 
 ### URL breakdown
 
-The URL is not merely where we want, but also what we want.
+The URL is not merely where we want, but also what we want and how to get it.
+
+Using `http://google.com/search?id=15&name=meagan` as an example...
 
 * `http://` - protocol in which data is sent
 * `google.com` - domain name which has a DNS mapping to the server IP
 * `/search` - route, which describes to the server what resource you are interacting with
 * `?id=15&name=meagan` - query string, which is used to pass additional data to the server in a GET request. `?` denotes the beginning of the query string, with each key/value pair joined by a `=` and listed by separate `&`
-
-The domain name is linked to a specific IP, which is where the server is located.
 
 ### Making the connection
 
