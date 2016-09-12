@@ -4,7 +4,7 @@ Just as a review, here are the details of the HTTP request lifecyle. This doesn'
 
 ## What happens when you type a url in a browser?
 
-![](/images/http-sequence.png)
+![](./images/http-sequence.png)
 
 ### URL breakdown
 

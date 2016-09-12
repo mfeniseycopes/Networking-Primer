@@ -8,13 +8,13 @@ Well, you don't really use it, but if you are brand new to networking, start fro
 
 ## Contents
 
-1. [Tools](/tools.md) *- more of a resource, feel free to skip*
-2. [HTTP Cycle Overview](/http.md)
-3. [DNS](/dns.md)
-4. [Addressing](/addressing.md)
-5. [TCP and Packets](/tcp.md)
-6. [Protocol Layers](/layers.md)
-7. [Routing](/routing.md)
-8. [Large Networks](/networks.md)
+1. [Tools](./tools.md) *- more of a resource, feel free to skip*
+2. [HTTP Cycle Overview](./http.md)
+3. [DNS](./dns.md)
+4. [Addressing](./addressing.md)
+5. [TCP and Packets](./tcp.md)
+6. [Protocol Layers](./layers.md)
+7. [Routing](./routing.md)
+8. [Large Networks](./networks.md)
 
-** [original notes](/notes.md)
+** [original notes](./notes.md)
