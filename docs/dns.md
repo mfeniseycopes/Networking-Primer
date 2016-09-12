@@ -6,7 +6,7 @@
 
 DNS is composed of three types of servers: domain servers, global top level domain name servers and the root servers. Root servers have a database mapping IPs to global top level domains, which in turn have a database mapping IPs to domains. Each domain may also have it's own name server, which maps its various subdomains to different IPs (servers).
 
-![](./images/dns.png)
+![](../images/dns.png)
 
 ### Local Caching
 
