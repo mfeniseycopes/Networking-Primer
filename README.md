@@ -4,7 +4,7 @@ A introductory networking primer based on the [Networking for Web Developers](ht
 
 ## How to use
 
-Well, you don't really use it, but if you are brand new to computer networking, start from the beginning. Otherwise, just read what tickles you.
+Well, you don't really use it, but if you are brand new to computer networking, start from the beginning. Otherwise, just read what interests you.
 
 ## Contents
 
