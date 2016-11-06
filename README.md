@@ -8,21 +8,11 @@ Well, you don't really use it, but if you are brand new to networking, start fro
 
 ## Contents
 
-[Tools](docs/tools.md)
-
-[HTTP Cycle Overview](docs/http.md)
-
-[DNS](docs/dns.md)
-
-[Addressing](docs/addressing.md)
-
-[TCP and Packets](docs/tcp.md)
-
-[Protocol Layers](docs/layers.md)
-
-[Routing](docs/routing.md)
-
-[Large Networks](docs/networks.md)
-
-
-** [original notes](docs/notes.md)
+* [Tools](docs/tools.md)
+* [HTTP Cycle Overview](docs/http.md)
+* [IP & the DNS](docs/dns.md)
+* [Addressing](docs/addressing.md)
+* [TCP and Packets](docs/tcp.md)
+* [Internet Protocol Stack](docs/layers.md)
+* [Routing](docs/routing.md)
+* [Large Networks](docs/networks.md)
